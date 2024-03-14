@@ -2,8 +2,7 @@
 This project aims at implementing a community garden startup toolkit for the community of Los Angeles, specifically those impacted by food deserts..  I ensured to extract various legal information on zoning, planning, and permit issuance through online government resources specific to California and Los Angeles to create visualizations and a legally transparent chatbot for guidance.
 
 #Important Information 
-Due to the restrictions of OpenAI’s API policy, I cannot allow for my project to be cloned, and run through Dash UI for use of my chatbot, even with running it through a .gitignore. However, feel free to clone run with your own OpenAI API key.
-I included a brief video walk through where I demo the chatbot locally 
+In adherence to OpenAI's API policy, cloning and running of my chatbot can cause termination of my API, as it violates their guidelines. Even with env variables, there is still posibility of leak detecetion.  For your effeciency, I have created a brief walkthrough video where I demo the UI locally
 
 https://vimeo.com/manage/videos/923511824
 
