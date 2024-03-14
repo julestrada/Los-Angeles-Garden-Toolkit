@@ -3,7 +3,9 @@ This project aims at implementing a community garden startup toolkit for the com
 
 #Important Information 
 Due to the restrictions of OpenAI’s API policy, I cannot allow for my project to be cloned, and run through Dash UI for use of my chatbot, even with running it through a .gitignore. However, feel free to clone run with your own OpenAI API key.
-I included a brief video walk through where I demo the chatbot locally (watchme.mp4)
+I included a brief video walk through where I demo the chatbot locally 
+
+https://vimeo.com/manage/videos/923511824
 
 #Project Steps: 
 Data Extraction
